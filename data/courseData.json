@@ -1,0 +1,50 @@
+[
+	{
+		"id": "01",
+        "title": "React & Laravel Software Development",
+		"description": "This course will provide hands-on training from the very basics of Laravel and React JS to professional projects through React and professional industry-level projects through Laravel. Even the main attraction of this course is that the students will be taught how to submit their own software to CodeCanyon and get it approved from the very beginning, Insha Allah.",
+        "teacher":"Md Tasdid Nayem",
+        "categories":"Software Development",
+        "price":"30,000"
+	},
+	{
+		"id": "02",
+        "title": "PHP,MYSQL,Wordpress Woocommerce Theme Development",
+		"description":"Dream-IT Institute has organized Online Batch Advanced WordPress Development and WooCommerce Theme Development. Provision of freelancing work from basic to advanced level through WordPress development and freelancing training for students outside Dhaka and outside the country. This course will provide hands-on training in PHP, MySQL and WordPress from basic to advanced levels.",
+        "teacher":"",
+        "categories":" ",
+        "price":" "
+	},
+	{
+		"id": "03",
+        "title": "Advanced Wordpress Development ",
+		"description":"This course will provide hands-on training from the very basics of web design to responsive web design, PHP, MySQL, and WordPress from basic to advanced levels so that after completing the training, all students can successfully work in the professional job field. Since the course is for beginners who only have knowledge of HTML and CSS, basic Javascript concepts will be given as a bonus.",
+        "teacher":"Md Nazim Uddin",
+        "categories":"Wordpress Development",
+        "price":"15,000"
+	},
+	{
+		"id": "04",
+        "title": "Professional Graphic Design",
+		"description":"This course will provide hands-on training from the very basics of web design to responsive web design, PHP, MySQL, and WordPress from basic to advanced levels so that after completing the training, all students can successfully work in the professional job field. Since the course is for beginners who only have knowledge of HTML and CSS, basic Javascript concepts will be given as a bonus.",
+        "teacher":"Md Nazim Uddin",
+        "categories":"Wordpress Development",
+        "price":"15,000"
+	},
+	{
+		"id": "05",
+        "title": "Digital Marketing",
+		"description":"This course will provide hands-on training from the very basics of web design to responsive web design, PHP, MySQL, and WordPress from basic to advanced levels so that after completing the training, all students can successfully work in the professional job field. Since the course is for beginners who only have knowledge of HTML and CSS, basic Javascript concepts will be given as a bonus.",
+        "teacher":"Md Nazim Uddin",
+        "categories":"Wordpress Development",
+        "price":"15,000"
+	},
+	{
+		"id": "06",
+        "title": "Search Engine Optimization (SEO)",
+		"description":"This course will provide hands-on training from the very basics of web design to responsive web design, PHP, MySQL, and WordPress from basic to advanced levels so that after completing the training, all students can successfully work in the professional job field. Since the course is for beginners who only have knowledge of HTML and CSS, basic Javascript concepts will be given as a bonus.",
+        "teacher":"Md Nazim Uddin",
+        "categories":"Wordpress Development",
+        "price":"15,000"
+	}
+]
