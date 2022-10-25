@@ -3,39 +3,44 @@
 		"id": "01",
         "title": "React & Laravel Software Development",
 		"description": "This course will provide hands-on training from the very basics of Laravel and React JS to professional projects through React and professional industry-level projects through Laravel. Even the main attraction of this course is that the students will be taught how to submit their own software to CodeCanyon and get it approved from the very beginning, Insha Allah.",
-        "teacher":"Md Tasdid Nayem"
+        "teacher":"Md Tasdid Nayem",
+        "categories":"Software Development"
 	},
 	{
 		"id": "02",
         "title": "PHP,MYSQL,Wordpress Woocommerce Theme Development",
 		"description":"Dream-IT Institute has organized Online Batch Advanced WordPress Development and WooCommerce Theme Development. Provision of freelancing work from basic to advanced level through WordPress development and freelancing training for students outside Dhaka and outside the country. This course will provide hands-on training in PHP, MySQL and WordPress from basic to advanced levels.",
         "teacher":"Md Ratul Hasan",
-        "categories":" ",
+        "categories":"Theme Development",
         "price":" "
 	},
 	{
 		"id": "03",
         "title": "Advanced Wordpress Development ",
 		"description":"This course will provide hands-on training from the very basics of web design to responsive web design, PHP, MySQL, and WordPress from basic to advanced levels so that after completing the training, all students can successfully work in the professional job field. Since the course is for beginners who only have knowledge of HTML and CSS, basic Javascript concepts will be given as a bonus.",
-        "teacher":"Md Nazim Uddin"
+        "teacher":"Md Nazim Uddin",
+        "categories":"Wordpress Development"
         
 	},
 	{
 		"id": "04",
         "title": "Professional Graphic Design",
 		"description":"This course will provide hands-on training from the very basic of graphic design to the very basic to advanced level of ADB Photoshop, ADB Illustrator, ADB InDesign so that after completing the training, all students can successfully use all types of graphic design in the professional job field or in the freelancing marketplace. Can secure a career by working",
-        "teacher":"Md Atif Aslam"
+        "teacher":"Md Atif Aslam",
+        "categories":"Graphic Design"
 	},
 	{
 		"id": "05",
         "title": "Digital Marketing",
 		"description":"The demand for skilled people in digital marketing is increasing day by day. Every company is now allocating separate funds for digital marketing along with traditional marketing. Many online shops are doing business through social media – especially through Facebook. So anyone who is skilled in digital marketing will get a chance to build a very good career.",
-        "teacher":"Md Mintu Islam"
+        "teacher":"Md Mintu Islam",
+        "categories":"Digital Marketing"
 	},
 	{
 		"id": "06",
         "title": "Search Engine Optimization (SEO)",
 		"description":"SEO is the continuous process to increase organic traffic to your website by obtaining a higher ranking on the search engine result page for specific keywords. Our SEO classes are conducted by expert trainers to teach you the necessary skills to make you an SEO expert. We provide theoretical knowledge as well as practical insights to understand and how to launch a successful SEO campaign.",
-        "teacher":"Md Jashim Uddin"
+        "teacher":"Md Jashim Uddin",
+        "categories":"SEO"
 	}
 ]
