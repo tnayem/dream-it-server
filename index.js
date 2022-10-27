@@ -10,8 +10,13 @@ const courseData = require('./data/courseData.json')
 app.get('/', (req, res) => {
   res.send('Dream it server is running')
 })
-app.get('/course-data', (req, res) => {
+app.get('/courses', (req, res) => {
   res.send(courseData)
+})
+app.get('/courses/:id', (req, res) => {
+  const id = req.params.id;
+  const selectedCourse = courseData.find(course=>course.id === id);
+  res.send(selectedCourse)
 })
 
 app.listen(port, () => {
